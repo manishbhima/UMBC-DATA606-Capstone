@@ -1,7 +1,7 @@
 ### MANISH BHIMA
 #### DATA ANALYST
 #### Contact :
-* Email:bhimamanish@gmail.com 
+* Email: bhimamanish@gmail.com 
 * Phone: +1 (667)-351-9937
 * www.linkedin.com/in/manish-bhima
 #### Educational Details:
