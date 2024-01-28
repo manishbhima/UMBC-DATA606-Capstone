@@ -1,3 +1,4 @@
+![Snapchat-1728519498~2](https://github.com/manishbhima/UMBC-DATA606-Capstone/assets/40805102/75e3b8db-c70b-4a94-8aea-92abfb9aecae)
 ### MANISH BHIMA
 #### DATA ANALYST
 #### Contact :
