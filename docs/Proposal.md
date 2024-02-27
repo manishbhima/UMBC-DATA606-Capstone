@@ -34,4 +34,4 @@ Description :
     > - Trihalomethanes: Amount of Trihalomethanes in μg/L.
     > - Turbidity: Measure of light emiting property of water in NTU.
     > - Potability: Indicates if water is safe for human consumption. Potable -1 and Not potable -0
- 5. 5. Target Variable: Potability(Boolean)
+ 5. Target Variable: Potability(Boolean)
