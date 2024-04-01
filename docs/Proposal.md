@@ -1,4 +1,4 @@
-# 1. PROJECT TITLE - URBAN WATER QUALITY DETECTION
+# 1. PROJECT TITLE - WATER QUALITY 
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang - SPRING 2024 Semester
 - Author: Manish Bhima
 - GitHub : https://github.com/manishbhima
