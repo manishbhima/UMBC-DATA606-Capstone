@@ -35,3 +35,6 @@ Description :
     > - Turbidity: Measure of light emiting property of water in NTU.
     > - Potability: Indicates if water is safe for human consumption. Potable -1 and Not potable -0
  5. Target Variable: Potability(Boolean)
+ 6. Feature Predictors : 'pH', ‘Hardness', ‘Solids’, ‘Chloramines', ‘Sulfate', ‘Conductivity ‘, ‘Trihalomethanes', and ‘Turbidity' can be used as variables for predicting machine learning models. These variables represent categorical features, and depending on the nature of your predictive task, they can be valuable predictors for your model.
+
+
