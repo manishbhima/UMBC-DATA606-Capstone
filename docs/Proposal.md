@@ -37,4 +37,6 @@ Description :
  5. Target Variable: Potability(Boolean)
  6. Feature Predictors : 'pH', ‘Hardness', ‘Solids’, ‘Chloramines', ‘Sulfate', ‘Conductivity ‘, ‘Trihalomethanes', and ‘Turbidity' can be used as variables for predicting machine learning models. These variables represent categorical features, and depending on the nature of your predictive task, they can be valuable predictors for your model.
 
+## 4. Data Exploration and Visualizations
+#### Distribution of Portability
 
