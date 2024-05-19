@@ -1,8 +1,10 @@
-# 1. PROJECT TITLE - WATER QUALITY 
+# 1. PROJECT TITLE - WATER QUALITY PREDICTION [MANISH BHIMA - SPRING 2024]
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang - SPRING 2024 Semester
 - Author: Manish Bhima
 - GitHub : https://github.com/manishbhima
 - Linkedin : www.linkedin.com/in/manish-bhima
+- Presentation : https://github.com/manishbhima/UMBC-DATA606-Capstone/blob/main/docs/water%20quality.pptx
+- Youtube Video : 
 ## 2. BACKGROUND
   - Constructing Sustainable Smart Water Supply systems are facing serious challenges all around the world with the fast expansion of modern cities. Water quality is 
      influencing our life ubiquitously and prioritizing all the urban management.
