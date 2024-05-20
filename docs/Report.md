@@ -95,3 +95,7 @@ Classification models used in this project are:
 - The developed models demonstrated strong predictive performance in estimating water potability, with the SVC Model exhibiting exceptional accuracy.
 - Implications- Water quality prediction projects play a crucial role in safeguarding public health, preserving the environment, optimizing resource utilization, shaping policies, and fostering community participation in water management.
 - In conclusion, our machine learning model demonstrates promising capabilities in predicting water quality parameters. By leveraging advanced algorithms and robust data sets, we've achieved significant accuracy in forecasting water quality, empowering stakeholders to make informed decisions and take proactive measures to ensure safe and sustainable water resources for communities and ecosystems alike.
+
+## 7. Youtube Link
+- https://youtu.be/UOXPC3mZP20
+
